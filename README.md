@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @the-architechie, an architect transitioning to tecj
-- 👀 I’m interested in OS development, blockchain, and ai
-- 🌱 I’m currently learning C and bash
-- 💞️ I’m looking to collaborate on any project on OS development, building compilers and programming languages
+- 👋 Hi, I’m @the-architechie, a Fulls Stack dev from architectural background
+- 👀 I’m interested in backend dev, low level development, blockchain, and ai
+- 🌱 I’m currently learning Java and Springboot
+- 💞️ I’m looking to collaborate on any project on backend dev in Java,  OS development, building compilers and programming languages
 - 📫 How to reach me ...
 
 <!---
