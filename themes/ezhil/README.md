@@ -42,7 +42,7 @@ languageCode = "en-us"
 title = "My personal blog"
 theme = "ezhil"
 
-copyright = "© Copyright notice"
+copyright = "© the-architechie"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -54,7 +54,7 @@ googleAnalytics = "UA-123-45"
 # Your Disqus sortname.
 disqusShortname = "localhost"
 
-# Number of posts to show in recent posts list (Optional). Defaults to 10.
+# Number of posts to show in Posts list (Optional). Defaults to 10.
 paginate = 10
 
 # Number of characters to show in summary.
@@ -64,7 +64,7 @@ summaryLength = 20
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
 
-    # Content types which are included in home page recent posts list.
+    # Content types which are included in home page Posts list.
     mainSections = ["posts"]
 
     # Content types which are excludes Disqus comments.
@@ -132,7 +132,7 @@ url = "https://twitter.com/gohugoio"
 
 ## Content type
 
-You can specify content type with field `type` in your content. For example static pages can be set as type `page` which are excluded from recent posts and all posts page. You can use site params `mainSections` and `disableDisqusTypes` to control which page types are excluded from recent posts and Disqus comments respectively.
+You can specify content type with field `type` in your content. For example static pages can be set as type `page` which are excluded from Posts and all posts page. You can use site params `mainSections` and `disableDisqusTypes` to control which page types are excluded from Posts and Disqus comments respectively.
 
 ```md
 ---
