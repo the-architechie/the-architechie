@@ -64,3 +64,6 @@ url = "/index.xml"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[submodule "themes/ezhil"]
+    path = themes/ezhil
+    url = https://github.com/vividvilla/ezhil.git
