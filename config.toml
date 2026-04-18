@@ -1,6 +1,6 @@
 baseURL = "https://the-architechie.com/"
 languageCode = "en-us"
-title = "Ezhil"
+title = "the-architechie"
 theme = "ezhil"
 paginate = 5
 
@@ -11,15 +11,15 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+disqusShortname = "the-architechie technical blog"
 
 summaryLength = 20
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	subtitle = "An Engineer's Odyssey"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-	mode = "auto" # "dark", "auto", "light"
+	mode = "light" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
@@ -47,7 +47,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
+url = "https://github.com/the-architechie"
 
 [[params.social]]
 name = "RSS"
