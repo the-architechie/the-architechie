@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Primer on Ezhil</title>
+    <title>Primer on the-architechie</title>
     <link>http://localhost:1313/tags/primer/</link>
-    <description>Recent content in Primer on Ezhil</description>
+    <description>Recent content in Primer on the-architechie</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© the-architechie</copyright>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
-      <description>&lt;p&gt;You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&lt;/p&gt;</description>
+      <description>&lt;p&gt;By: Unknown Author&lt;/p&gt;&#xA;&lt;p&gt;You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

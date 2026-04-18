@@ -8,13 +8,32 @@
 
 		{{ with .Content }}{{ . }}{{ end }}
 
+		<!-- Series Section -->
+		<div class="recent-posts section">
+			<h2 class="section-header">
+				Series
+			</h2>
+			<div class="posts">
+				{{ range $name, $taxonomy := .Site.Taxonomies.series }}
+				<div class="post">
+					<a class="title" href="{{ "/series/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize | title }}</a> &mdash;
+					<span class="description">
+						A {{ len $taxonomy }} part series.
+					</span>
+				</div>
+				{{ end }}
+			</div>
+		</div>
+
+		<!-- Posts Section -->
 		<div class="recent-posts section">
 			<h2 class="section-header">
 				Posts
 			</h2>
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+				{{ $standalone := where $pages ".Params.series" "==" nil }}
+				{{ $paginator := .Paginate (where $standalone "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
 					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span

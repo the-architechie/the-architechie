@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "the-architechie technical blog"
+disqusShortname = "muchami-ngotho"
 
 summaryLength = 20
 
@@ -56,11 +56,16 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
+   category = "categories"
+   series = "series"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
