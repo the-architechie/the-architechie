@@ -4,14 +4,6 @@ date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
-I'm an engineer who loves learning the inner working of things beyond the surface level. The thought of coming up with this space was born out of the curiosrity to learn, the very fundamentals that make any piece of software, to learn inner workings of the different paradigms, design patterns and technologies from first principle.
-
-Kelsey Hightower happens to be one of most favourite engineers and in one of the podcasts, he says:
-
-> What I come to realize is that technology doesn’t move that fast. The fundamentals are roughly the same. It’s the fact that we don’t necessarily teach fundamentals. When you start to focus on the fundamentals, then you don’t mentally get attached to one particular implementation.
-
-As a self taught engineer, I will be sharing with you my journey, my thoughts and ideas, and the lessons I learn along the way. This is my engineering odyssey!
-
 I'm an engineer who loves learning the inner working of things beyond the surface level. The thought of coming up with this space was born out of the curiosity to learn the very fundamentals that make any piece of software — to learn the inner workings of different paradigms, design and architectural patterns, and technologies from first principles.
 
 Kelsey Hightower, one of my favorite engineers, once said:
