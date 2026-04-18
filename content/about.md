@@ -12,6 +12,6 @@ Kelsey Hightower, one of my favorite engineers, once said:
 
 As a self-taught engineer, I believe it is not enough to just learn how to build software; it is more important to learn the core principles of computer science. 
 
-On this journey, I’ll be sharing my journey as I unravel the world of computer science—recreating and reverse-engineering distributed systems, languages, and OS concepts.
+In this space, I’ll be sharing my journey as I unravel the world of computer science—recreating and reverse-engineering distributed systems, languages, and OS concepts.
 
 This is my engineering odyssey!
